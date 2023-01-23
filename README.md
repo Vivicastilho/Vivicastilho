@@ -1,9 +1,6 @@
-## Hi! I´m Viviane Castilho |
+## ✨ Hi! I´m Viviane Castilho ✨   
 
 
-**Vivicastilho/vivicastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m a Frontend developer
 - 🌱 I’m currently learning React/JS
@@ -17,7 +14,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Vivi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Vivi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vivi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="right" alt="Vivi-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ 
 </div>
   
   ##
@@ -30,3 +27,16 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/viviane-gomes-castilho-93a5a6103/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+  # Snake Animation
+  - uses: Platane/snk@master
+    id: snake-gif
+    with:
+      github_user_name: camilamaraschin
+      svg_out_path: dist/github-contribution-grid-snake.svg
+  - uses: crazy-max/ghaction-github-pages@v2.1.3
+    with:
+      target_branch: output
+      build_dir: dist
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
