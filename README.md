@@ -7,7 +7,7 @@
 - 📫 Contact by email: vivianegomes.dev@gmail.com
 - 😄 Pronouns: she/her
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=truetheme=theme_dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
 
