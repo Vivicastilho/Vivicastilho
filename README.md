@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF008E&height=120&section=header"/>  
                      <!-- =Viviane%20Gomes%20Castilho&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35" -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Viviane+Castilho;I'm+37+years+old;I'm+from+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+Name+Is+Viviane+Castilho;I'm+38+years+old;I'm+from+Brazil;Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vivicastilho&show_icons=true&count_private=true&hide_border=true&title_color=FF008E&icon_color=FF008E&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
